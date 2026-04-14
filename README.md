@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/prushti-lathiya-896858254">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn"/>
   </a>
 </p>
 
