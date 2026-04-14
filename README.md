@@ -34,22 +34,19 @@
 🚀 **Inspora App**
 
 > Nail & Mehndi discovery platform with filtering, location-based posts & booking
+> 
 
-🍔 **Food Order System**
+📡 **CurrenSync**
 
-> Full-stack app with CRUD operations & real-time updates
-
-📡 **WiFi Data Transfer App**
-
-> Flutter app with socket communication & real-time monitoring
+> Flutter app with converting different types of currency values.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prushtilathiya9090&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prushtilathiya9090&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -57,7 +54,7 @@
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prushtilathiya9090&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,10 +62,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/prushti-lathiya-896858254">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:lathiyaprushti05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
