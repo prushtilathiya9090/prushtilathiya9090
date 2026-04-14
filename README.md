@@ -18,11 +18,18 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/flutter" width="50"/>
-  <img src="https://cdn.simpleicons.org/dart" width="50"/>
-  <img src="https://cdn.simpleicons.org/firebase" width="50"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="50"/>
-  <img src="https://cdn.simpleicons.org/mongodb" width="50"/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" title="Dart"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" title="Node.js"/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" title="MongoDB"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" title="Firebase"/>
 </p>
 
 
